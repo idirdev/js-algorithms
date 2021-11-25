@@ -4,9 +4,9 @@
   "description": "JavaScript implementations of classic algorithms and data structures",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "test:watch": "jest --watch",
-    "test:coverage": "jest --coverage"
+    "test": "vitest run",
+    "test:watch": "vitest --watch",
+    "test:coverage": "vitest run --coverage"
   },
   "keywords": [
     "algorithms",
@@ -19,6 +19,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^23.6.0"
+    "jest": "^23.6.0",
+    "vitest": "^2.0.0"
   }
 }
