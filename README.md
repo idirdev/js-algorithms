@@ -141,3 +141,20 @@ js-algorithms/
 ## License
 
 This project is licensed under the MIT License.
+
+---
+
+## 🇫🇷 Documentation en français
+
+### Description
+**js-algorithms** est une collection d'algorithmes et de structures de données classiques implémentés en JavaScript. Ce dépôt couvre les tris, la recherche, les graphes et les arbres, avec des explications claires et des tests unitaires. C'est une référence utile pour préparer des entretiens techniques.
+
+### Installation
+```bash
+npm install
+```
+
+### Utilisation
+```bash
+npm test
+```
